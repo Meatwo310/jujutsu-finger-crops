@@ -7,7 +7,7 @@ Jujutsu Craft MODの宿儺の指の作物を、ビートルートを犠牲に実
 
 ## 導入方法
 1. 1.16.5Forge環境をお好みのランチャーでセットアップし、[Jujutsu Craft (Sorcery Fight)](https://www.curseforge.com/minecraft/mc-mods/sorceryfight)を導入しておきます。
-2. [Releases](https://github.com/Meatwo310/jujutsu-finger-crops/releases)から、`nigg_jujutssu_resources.zip`と`nigg_jujutsu_datapack.zip`の2ファイルをダウンロードします。
+2. [Releases](https://github.com/Meatwo310/jujutsu-finger-crops/releases)から、`nigg_jujutssu_resources_v〇〇.zip`と`nigg_jujutsu_datapack_v〇〇.zip`の2ファイルをダウンロードします。
     * **`Source code`をダウンロードする必要はありません。**
     * **zipファイルは解凍しないでください。**
 3. Minecraftを起動し、`設定`→`リソースパック…`を開き、先ほどダウンロードした`nigg_jujutssu_resources.zip`をドラッグアンドドロップします。
